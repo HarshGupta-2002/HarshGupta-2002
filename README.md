@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Development & Problem Solving Skills<br>👯 I’m looking to collaborate on Various Open Source Projects<br>🤝 I’m looking for help with finding a team to collaborate with<br>🌱 I’m currently learning About the latest Technologies, like Blockchain & Cloud<br>💬 Ask me about myself and my experience<br>⚡ Fun fact - The first computer was made of wood
+🔭 I’m currently working on Development & Problem Solving Skills<br>🌱 I’m currently learning About the latest Technologies, like Blockchain & Cloud<br>💬 Ask me about myself and my experience<br>⚡ Fun fact - The first computer was made of wood
 
 
 ## 🌐 Socials:
